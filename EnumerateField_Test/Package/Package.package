@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="71b218d8-4b23-4626-b4df-c3884964ad70" solutionId="71b218d8-4b23-4626-b4df-c3884964ad70" resetWebServer="false" name="EnumerateField_Test" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="308da12e-0d09-4450-ab40-a932d4a35c35" />
+  </features>
+</package>

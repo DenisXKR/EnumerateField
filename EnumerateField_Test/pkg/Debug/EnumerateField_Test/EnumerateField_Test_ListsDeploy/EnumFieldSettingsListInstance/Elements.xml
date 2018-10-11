@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="EnumFieldSettingsList"
+                OnQuickLaunch="TRUE"
+                TemplateType="10000"
+                Url="Lists/EnumFieldSettingsList"
+                Description="EnumFieldSettingsList">
+    <Data>
+      <Rows>
+        <Row>
+          <Field Name="ID">1</Field>
+          <Field Name="Title">ПК</Field>
+        </Row>
+        <Row>
+          <Field Name="ID">2</Field>
+          <Field Name="Title">ЗК</Field>
+          <Field Name="SerialNumber">10</Field>
+        </Row>
+        <Row>
+          <Field Name="ID">3</Field>
+          <Field Name="Title">ТК</Field>
+          <Field Name="SerialNumber">20</Field>
+        </Row>
+      </Rows>
+    </Data>
+  </ListInstance>
+</Elements>

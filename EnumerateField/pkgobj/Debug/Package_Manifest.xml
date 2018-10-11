@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e367e5be-14bf-4814-a079-b457659a4b52" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="EnumerateField.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="XML\fldtypes_EnumField.xml" />
+    <TemplateFile Location="ControlTemplates\EnumerateField\EnumFieldPropertyEditor.ascx" />
+  </TemplateFiles>
+</Solution>

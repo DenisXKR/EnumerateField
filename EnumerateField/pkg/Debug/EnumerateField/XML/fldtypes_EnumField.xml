@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FieldTypes>
+  <FieldType>
+    <Field Name="Sortable">TRUE</Field>
+    <Field Name="Filterable">TRUE</Field>
+    <Field Name="ParentType">Text</Field>
+    <Field Name="UserCreatable">TRUE</Field>
+    <Field Name="TypeName">EnumField</Field>
+    <Field Name="TypeDisplayName">Нумератор с префиксом</Field>
+    <Field Name="TypeShortDescription">Поле нумератор с префиксом</Field>
+    <Field Name="FieldTypeClass">EnumerateField.EnumField, EnumerateField, Version=1.0.0.0, Culture=neutral, PublicKeyToken=56c88bfe80a71320</Field>
+    <Field Name="FieldEditorUserControl">/_controltemplates/EnumerateField/EnumFieldPropertyEditor.ascx</Field>
+    <PropertySchema>
+      <Fields>
+        <Field Name="WebSite" DisplayName="Web-узел списка серии номеров" Type="Text" Hidden="TRUE">        
+        </Field>
+        <Field Name="List" DisplayName="Список серий номеров" Type="Text" Hidden="TRUE">
+        </Field>
+        <Field Name="PrefixField" DisplayName="Поле префикса серии номеров" Type="Text" Hidden="TRUE">
+        </Field>
+        <Field Name="SerialNumberField" DisplayName="Поле порядкового номера серии номеров" Type="Text" Hidden="TRUE">
+        </Field>
+        <Field Name="NumberSymbolCount" DisplayName="Количество символов в номере" Type="Text" Hidden="TRUE">
+        </Field>
+      </Fields>
+    </PropertySchema>
+  </FieldType>
+</FieldTypes>

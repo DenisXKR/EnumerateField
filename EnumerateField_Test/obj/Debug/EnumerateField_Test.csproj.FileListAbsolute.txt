@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2012\Projects\EnumerateField\EnumerateField_Test\bin\Debug\EnumerateField_Test.dll
+c:\users\administrator\documents\visual studio 2012\Projects\EnumerateField\EnumerateField_Test\bin\Debug\EnumerateField_Test.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\EnumerateField\EnumerateField_Test\obj\Debug\EnumerateField_Test.dll
+c:\users\administrator\documents\visual studio 2012\Projects\EnumerateField\EnumerateField_Test\obj\Debug\EnumerateField_Test.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\EnumerateField\EnumerateField_Test\obj\Debug\EnumerateField_Test.csprojResolveAssemblyReference.cache

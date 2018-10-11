@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e367e5be-14bf-4814-a079-b457659a4b52" solutionId="e367e5be-14bf-4814-a079-b457659a4b52" resetWebServer="false" name="EnumerateField" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="f0c6f15d-78bc-4725-9ff7-f0eb4acccefe" />
+    <projectItemReference itemId="67aa4e30-2d75-4e84-9c8c-cd01e8d17c98" />
+  </projectItems>
+</package>

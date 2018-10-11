@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="EnumerateField_Test Feature1" Id="f25092b3-4057-4c6d-b1ba-150664ff24a1" ReceiverAssembly="EnumerateField_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d4f4b0b99f22d5e1" ReceiverClass="EnumerateField_Test.Features.ListsDeploy.ListsDeployEventReceiver" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="EnumFieldSettingsList\Elements.xml" />
+    <ElementFile Location="EnumFieldSettingsList\Schema.xml" />
+    <ElementManifest Location="EnumFieldSettingsListInstance\Elements.xml" />
+  </ElementManifests>
+</Feature>
